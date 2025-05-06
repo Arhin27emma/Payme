@@ -40,7 +40,7 @@
   </tr>
   <tr>
     <td><strong>Backend</strong></td>
-    <td>Django / FastAPI</td>
+    <td>Django / nodejs</td>
   </tr>
   <tr>
     <td><strong>Authentication</strong></td>
@@ -48,11 +48,11 @@
   </tr>
   <tr>
     <td><strong>Database</strong></td>
-    <td>PostgreSQL</td>
+    <td>Superbase</td>
   </tr>
   <tr>
     <td><strong>Payment Gateways</strong></td>
-    <td>Stripe, Paystack, Others</td>
+    <td>Stripe, Paystack, Payment Cards</td>
   </tr>
 </table>
 
@@ -70,7 +70,7 @@
 ---
 
 <h2>📱 Screenshots</h2>
-<p>Include your Kotlin Android app UI screenshots here.</p>
+<p>coming soon...</p>
 
 ---
 
@@ -78,7 +78,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
+git clone https://github.com/Arhin27emma/Payme.git
 
 # Open with Android Studio
 # Build and run on an emulator or physical device
