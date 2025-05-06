@@ -7,6 +7,7 @@
   <img src="https://img.shields.io/badge/Firebase-Auth-yellow?logo=firebase" />
   <img src="https://img.shields.io/badge/JWT-Authentication-red?logo=jsonwebtokens" />
   <img src="https://img.shields.io/badge/Supabase-Database-brightgreen?logo=supabase" />
+  <img src="https://img.shields.io/badge/Paystack-Gateway-blue?logo=paystack" />
 </p>
 
 ---
