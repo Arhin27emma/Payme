@@ -4,9 +4,9 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Kotlin-Android-blue?logo=kotlin" />
-  <img src="https://img.shields.io/badge/Django-Backend-green?logo=django" />
   <img src="https://img.shields.io/badge/Firebase-Auth-yellow?logo=firebase" />
-  <img src="https://img.shields.io/badge/PostgreSQL-Database-blue?logo=postgresql" />
+  <img src="https://img.shields.io/badge/JWT-Authentication-red?logo=jsonwebtokens" />
+  <img src="https://img.shields.io/badge/Supabase-Database-brightgreen?logo=supabase" />
 </p>
 
 ---
