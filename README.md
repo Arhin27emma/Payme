@@ -1,5 +1,5 @@
 <!-- README.md -->
-<h1 align="center">💳 AI-Pay</h1>
+<h1 align="center">💳 Payme</h1>
 <p align="center"><em>Smart Payment System Powered by AI</em></p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 ---
 
 <p align="center">
-  <strong>AI-Pay</strong> is a secure and intelligent mobile payment system that uses artificial intelligence to deliver personalized, fast, and fraud-resistant transactions.
+  <strong>Payme</strong> is a secure and intelligent mobile payment system that uses artificial intelligence to deliver personalized, fast, and fraud-resistant transactions.
 </p>
 
 ---
@@ -23,7 +23,7 @@
   <li><strong>🤖 AI-Driven Fraud Detection:</strong> Real-time transaction monitoring and anomaly detection</li>
   <li><strong>💳 Seamless Payments:</strong> Support for card, wallet, and bank payments with smooth UX</li>
   <li><strong>🧠 Smart Insights:</strong> AI-powered budgeting and personalized financial suggestions</li>
-  <li><strong>🔐 Secure Authentication:</strong> Biometric login and AI-enhanced risk assessment</li>
+  <li><strong>🔐 Secure Authentication:</strong> Biometric and JWT login and AI-enhanced risk assessment</li>
   <li><strong>🌐 Cross-Platform Ready:</strong> Native Android (Kotlin) with scalable backend APIs</li>
   <li><strong>⚙️ Developer Friendly:</strong> REST APIs for merchants and third-party integration</li>
 </ul>
@@ -48,10 +48,6 @@
   <tr>
     <td><strong>Database</strong></td>
     <td>PostgreSQL</td>
-  </tr>
-  <tr>
-    <td><strong>AI/ML</strong></td>
-    <td>TensorFlow / scikit-learn</td>
   </tr>
   <tr>
     <td><strong>Payment Gateways</strong></td>
