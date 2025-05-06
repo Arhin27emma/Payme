@@ -126,14 +126,14 @@ fun WalletScreen(navController: NavController) {
                     ) {
                         Row(verticalAlignment = Alignment.CenterVertically) {
                             Icon(
-                                imageVector = Icons.Default.CreditCard,
+                                imageVector = Icons.Default.AccountBox,
                                 contentDescription = null,
                                 tint = Color.White,
                                 modifier = Modifier.size(32.dp)
                             )
                             Spacer(modifier = Modifier.width(8.dp))
                             Icon(
-                                imageVector = Icons.Default.CreditCard,
+                                imageVector = Icons.Default.AccountBox,
                                 contentDescription = null,
                                 tint = Color.White.copy(alpha = 0.5f),
                                 modifier = Modifier.size(32.dp)
@@ -141,7 +141,7 @@ fun WalletScreen(navController: NavController) {
                         }
                         // Mastercard logo placeholder
                         Icon(
-                            painter = painterResource(id = R.drawable.ic_mastercard),
+                            painter = painterResource(id = R.drawable.ic_launcher_foreground),
                             contentDescription = "Mastercard",
                             tint = Color.Unspecified,
                             modifier = Modifier.size(40.dp)
